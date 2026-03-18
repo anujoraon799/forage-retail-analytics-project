@@ -1,3 +1,5 @@
+## 📌 Project Type
+End-to-End Data Analytics Project (EDA + A/B Testing + Statistical Analysis)
 # 🛒 Retail Analytics & Store Trial Analysis
 
 ## 🔍 Overview
