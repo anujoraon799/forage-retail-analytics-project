@@ -74,6 +74,16 @@ The new store layout shows potential for increasing sales, but results are not s
 * Apply advanced statistical techniques
 
 ---
+## 📂 Dataset Information
+
+* Two datasets are included in this repository for analysis.
+* One dataset (~28MB) is not uploaded due to GitHub file size limitations.
+
+👉 To run the project:
+
+* Download the dataset from the original Forage/Quantium source
+* Place it inside the `data/` folder
+
 
 ## 👤 Author
 
